@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stats</string>
+    <string name="imageView">Image</string>
+    <string name="name">Aljeda Cepele</string>
+    <string name="phone">cel: (815) 237 1345</string>
+    <string name="info">Get more info about me!</string>
+    <string name="button">Click here</string>
+
+</resources>
